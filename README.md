@@ -1,7 +1,11 @@
 <h1 align="center" class="heading-element" dir="auto">Привет, меня зовут Владимир! </h1>
+
+## 🛠 Обо Мне:
 <h3 align="center" class="heading-element" dir="auto">
   Я - Бэкенд Python разработчик из России. Пишу код на Python, потому что он универсален для различных типов задач, имеет простой и лаконичны синтаксис и обеспечивает кроссплатформенную поддержку.
 </h3>
+
+## 🛠 GitHub статистика:
 
 <h3 align="center" class="heading-element" dir="auto">
   <a href="https://github.com/anuraghazra/convoychat">
@@ -18,6 +22,7 @@
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
 ![SQL](https://img.shields.io/badge/-SQL-F29111?style=for-the-badge&logo=sql&logoColor=FFFFFF)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
