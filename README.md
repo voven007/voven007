@@ -31,9 +31,15 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+![Static Badge](https://img.shields.io/badge/REST%20api-purple?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/CI%2FCD-green?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoSize=auto&) 
+
 ![Static Badge](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/github-g?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/github_action-g?style=for-the-badge&logo=github%20actions&logoColor=blue&labelColor=white&color=white)
+
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Мои Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/vababenko)
