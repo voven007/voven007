@@ -52,7 +52,7 @@
 
 ## Моя Статистика
 
-[![](https://leetcard.jacoblin.cool/voven007?theme=black,unicorn)](https://leetcode.com/u/voven007)<p>
+[![](https://leetcard.jacoblin.cool/voven007?theme=black,unicorn,ext=heatmap)](https://leetcode.com/u/voven007)<p>
 [![codewars](https://www.codewars.com/users/voven007/badges/large)](https://www.codewars.com/users/voven007)  
 ---
 ![](https://visitcount.itsvg.in/api?id=Mithrilin&icon=0&color=2)
