@@ -20,6 +20,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Rest_API](https://img.shields.io/badge/REST%20api-purple?style=for-the-badge)
 
 ![SQL](https://img.shields.io/badge/-SQL-F29111?style=for-the-badge&logo=sql&logoColor=FFFFFF)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -31,9 +32,13 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/REST%20api-purple?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/CI%2FCD-green?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoSize=auto&) 
+![CI/CD](https://img.shields.io/badge/CI%2FCD-green?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoSize=auto&)
+
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&logoSize=auto)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoSize=auto&logoColor=151515)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoSize=auto&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/github-g?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)
