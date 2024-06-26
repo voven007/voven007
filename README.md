@@ -1,6 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">Привет, меня зовут Владимир! </h1>
 <h3 align="center" class="heading-element" dir="auto">
-  Бэкенд Python разработчик (Django).
+  Я - Бэкенд Python разработчик
 </h3>
 
 <h3 align="center" class="heading-element" dir="auto">
@@ -12,7 +12,7 @@
   </a>
 </h3>
 
-## 🛠 Стек:
+## 🛠 Мой Стек:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -30,6 +30,9 @@
 
 ![](https://leetcard.jacoblin.cool/voven007?theme=light,unicorn)
 
+## Мои Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/vababenko)
+[![email](https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=maildotru&logoColor=FFFFFF)](mailto:babenko-nn@yandex.ru)
 <!--
 **voven007/voven007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
