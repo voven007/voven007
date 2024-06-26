@@ -33,14 +33,16 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoSize=auto&logoColor=151515)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoSize=auto&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
 ![DotHub](https://img.shields.io/badge/github-g?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&logoSize=auto)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-green?style=for-the-badge)
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoSize=auto&logoColor=151515)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoSize=auto&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-6e98bf?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-191919?style=for-the-badge&logo=notion&logoColor=white)
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
