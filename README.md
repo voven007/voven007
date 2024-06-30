@@ -6,17 +6,6 @@
   Люблю открывать для себя новое и интересное, осваивать новые процессы и технологи, углубляться в уже имеющиеся знания совершенствуя их.
 </h3>
 
-## :octocat: GitHub статистика:
-
-<h3 align="center" class="heading-element" dir="auto">
-  <a href="https://github.com/voven007">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=voven007&layout=compact&langs_count=4&hide=javascript,css&theme=radical" />
-  </a><p><p>
-  <a href="https://github.com/voven007">
-    <img height=129 align="center" src="https://github-readme-stats.vercel.app/api?username=voven007&hide=stars,prs,issues,contribs&rank_icon=github&custom_title=My+GitHub+Stats&theme=radical" />
-  </a>
-</h3>
-
 ## 🛠 Мой Стек:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -51,7 +40,18 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/vababenko)
 [![email](https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=maildotru&logoColor=FFFFFF)](mailto:babenko-nn@yandex.ru)
 
-## Моя Статистика
+## :octocat: GitHub статистика:
+
+<h3 align="center" class="heading-element" dir="auto">
+  <a href="https://github.com/voven007">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=voven007&layout=compact&langs_count=4&hide=javascript,css&theme=radical" />
+  </a><p><p>
+  <a href="https://github.com/voven007">
+    <img height=129 align="center" src="https://github-readme-stats.vercel.app/api?username=voven007&hide=stars,prs,issues,contribs&rank_icon=github&custom_title=My+GitHub+Stats&theme=radical" />
+  </a>
+</h3>
+
+## Моя Статистика тренировок
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/voven007?ext=heatmap)](https://leetcode.com/u/voven007)<p>
 [![codewars](https://www.codewars.com/users/voven007/badges/large)](https://www.codewars.com/users/voven007)  
