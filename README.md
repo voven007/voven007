@@ -49,12 +49,12 @@
   </a>
 
 
-
+<!--
 ## Моя Статистика тренировок
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/voven007?ext=heatmap)](https://leetcode.com/u/voven007)<p>
 [![codewars](https://www.codewars.com/users/voven007/badges/large)](https://www.codewars.com/users/voven007)
-<!--
+ч
 
 
 **voven007/voven007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
