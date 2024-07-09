@@ -29,7 +29,6 @@
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoSize=auto&logoColor=151515)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoSize=auto&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-6e98bf?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-191919?style=for-the-badge&logo=notion&logoColor=white)
 
