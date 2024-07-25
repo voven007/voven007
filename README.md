@@ -48,7 +48,6 @@
     <img height=129 align="center" src="https://github-readme-stats.vercel.app/api?username=voven007&hide=stars,prs,issues,contribs&rank_icon=github&custom_title=My+GitHub+Stats&theme=radical" />
   </a>
 
-
 <!--
 ## Моя Статистика тренировок
 
