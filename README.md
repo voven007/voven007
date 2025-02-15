@@ -45,7 +45,7 @@
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=voven007&layout=compact&langs_count=4&hide=javascript,css&theme=radical" />
   </a><p><p>
   <a href="https://github.com/voven007">
-    <img height=129 align="center" src="https://github-readme-stats.vercel.app/api?username=voven007&rank_icon=github&custom_title=My+GitHub+Stats&theme=radical" />
+    <img height=129 align="center" src="https://github-readme-stats.vercel.app/api?username=voven007&hide=stars,prs,issues,contribs&rank_icon=github&custom_title=My+GitHub+Stats&theme=radical" />
   </a>
 
 <!--
